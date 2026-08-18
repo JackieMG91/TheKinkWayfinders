@@ -6,6 +6,21 @@ An app to help people learn about kink, build strong kink communities, and have 
 
 ---
 
+## The Oath
+
+> **The Kinky Wayfinders Oath**
+> *"I give myself to this Crew, and pledge to follow the laws of the Wayfinders and the laws of my Crew.*
+> *I speak this oath freely — with an open mind, an open heart, and under no pressure from anyone.*
+> *I will not judge my fellow Wayfinders for whatever kink or fetish they engage in. It's not my cup of tea, but it is their cup of tea.*
+> *I promise to seek knowledge before action, and consent before all.*
+> *I will speak my limits honestly, and honor the limits of those I play with.*
+> *I will care for my community as I want my community to care for me.*
+> *I will make room for every body, mind, gender, identity, creed, and race.*
+> *Above all — I will play safe, play smart, and play kind.*
+> *I will respect those who walk the path above me, and when my time comes, guide those who walk behind.*
+> *For in our own way, we are all submissive to something — to our limits, to our community, and to the trust we place in each other.*
+> *This I swear, before this Crew and by my own word."*
+
 ## Ranking & Badge System
 
 A two-track advancement system: **Ranks** (linear, community-and-knowledge based) and **Specialty Badges** (non-linear, interest-based). This mirrors traditional Scouting-style advancement systems: ranks measure well-roundedness and community involvement; badges measure depth in a specific area.
@@ -40,20 +55,6 @@ A two-track advancement system: **Ranks** (linear, community-and-knowledge based
 - Complete profile (boundaries, identity, pronouns, discretion settings)
 - Read & accept Community Guidelines and Code of Conduct
 - Complete "Welcome to the Crew" orientation module (what this app is for, how reporting works, how consent culture works here)
-- **Swear the Kinky Wayfinders Oath in front of the Crew** (live at a meeting/event, or via a live virtual gathering — not a solo checkbox)
-
-> **The Kinky Wayfinders Oath**
-> *"I give myself to this Crew, and pledge to follow the laws of the Wayfinders and the laws of my Crew.*
-> *I speak this oath freely — with an open mind, an open heart, and under no pressure from anyone.*
-> *I will not judge my fellow Wayfinders for whatever kink or fetish they engage in. It's not my cup of tea, but it is their cup of tea.*
-> *I promise to seek knowledge before action, and consent before all.*
-> *I will speak my limits honestly, and honor the limits of those I play with.*
-> *I will care for my community as I want my community to care for me.*
-> *I will make room for every body, mind, gender, identity, creed, and race.*
-> *Above all — I will play safe, play smart, and play kind.*
-> *I will respect those who walk the path above me, and when my time comes, guide those who walk behind.*
-> *For in our own way, we are all submissive to something — to our limits, to our community, and to the trust we place in each other.*
-> *This I swear, before this Crew and by my own word."*
 
 **Swearing the oath is what grants Initiate rank.** It's the on-ramp ritual — the moment an Applicant stops being a solo account and becomes a witnessed, recognized member of a Crew. Regional/online Crews without in-person meetings can do this via a scheduled live video gathering; it shouldn't be satisfied by a text-only checkbox, since the point is the shared, witnessed moment.
 
@@ -64,6 +65,7 @@ A two-track advancement system: **Ranks** (linear, community-and-knowledge based
 - 🎖 Badge: *Aftercare & Emotional Regulation*
 - 🎖 Badge: *Communication & Negotiation*
 - 🎖 Badge: *Sexual Health Literacy* (testing, barrier methods, disclosure conversations)
+- **Swear the Kinky Wayfinders Oath in front of the Crew** (live at a meeting/event, or via a live virtual gathering — not a solo checkbox)
 - Officially welcomed and recognized as a Crew member
 - Gains access to Crew discussion boards, event listings, and the badge/rank progression system
 
