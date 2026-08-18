@@ -59,20 +59,21 @@ A two-track advancement system: **Ranks** (linear, community-and-knowledge based
 
 ### Rank 1 — Initiate
 *Granted the moment the Oath is sworn in front of the Crew.*
+- 🎖 Badge: *Consent Fundamentals*
+- 🎖 Badge: *Safety & Risk-Awareness Basics*
+- 🎖 Badge: *Aftercare & Emotional Regulation*
+- 🎖 Badge: *Communication & Negotiation*
+- 🎖 Badge: *Sexual Health Literacy* (testing, barrier methods, disclosure conversations)
 - Officially welcomed and recognized as a Crew member
 - Gains access to Crew discussion boards, event listings, and the badge/rank progression system
 
 ### Rank 2 — Disciple
 **Requirements (complete all):**
-- 🎖 Badge: *Consent Fundamentals*
-- 🎖 Badge: *Safety & Risk-Awareness Basics*
 - Join at least 1 Crew (community group)
 - Attend or watch 1 intro event/AMA (in-person or virtual)
 
 ### Rank 3 — Apprentice
 **Requirements:**
-- 🎖 Badge: *Communication & Negotiation*
-- 🎖 Badge: *Sexual Health Literacy* (testing, barrier methods, disclosure conversations)
 - Post or contribute meaningfully to 3 community discussions
 - Attend 2 events/munches
 
@@ -81,7 +82,6 @@ A two-track advancement system: **Ranks** (linear, community-and-knowledge based
 ### Rank 4 — Seafarer
 **Requirements:**
 - 🎖 2 Specialty Badges of the member's choosing (see below)
-- 🎖 Badge: *Aftercare & Emotional Regulation*
 - Attend 4 events OR help organize 1
 - Give a peer a positive endorsement (light peer-review system)
 
@@ -90,7 +90,6 @@ A two-track advancement system: **Ranks** (linear, community-and-knowledge based
 ### Rank 5 — Navigator
 **Requirements:**
 - 🎖 3 additional Specialty Badges (5 total)
-- 🎖 Badge: *Recognizing & Responding to Red Flags* (coercion, grooming, community safety)
 - Co-host or organize 1 event
 - **Guide a mentee all the way to Apprentice rank** (required, not optional — assisting as an Apprentice doesn't count toward this; the mentor must have been lead throughout, and the mentee must complete Initiate → Disciple → Apprentice under their guidance). **If a mentorship ends early** (ghosting, mismatch, mentee going inactive), progress **resets** — the mentor must guide a new mentee through the full arc from the start. No partial credit carries over between mentees.
 - Mentor-nomination: an existing Master+ vouches for their conduct
