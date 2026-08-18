@@ -1,5 +1,10 @@
-# TheKinkWayfinders
-This is an app to help people learn about kink, to build strong kink communities, and have fun while doing it.
+# Kinky Wayfinders
+
+An app to help people learn about kink, build strong kink communities, and have fun while doing it.
+
+**Stack:** Vue (frontend) · Laravel (backend)
+
+---
 
 ## Kinky Wayfinders — Ranking & Badge System
 
@@ -16,7 +21,7 @@ A two-track advancement system: **Ranks** (linear, community-and-knowledge based
 
 ---
 
-## Rank Track (linear progression)x
+## Rank Track (linear progression)
 
 | # | Rank Name | Focus | Typical Time-in-Rank | Color (Gilbert Baker 1978) |
 |---|-----------|-------|----------------------|------------------------------|
@@ -87,7 +92,7 @@ A two-track advancement system: **Ranks** (linear, community-and-knowledge based
 - 🎖 3 additional Specialty Badges (5 total)
 - 🎖 Badge: *Recognizing & Responding to Red Flags* (coercion, grooming, community safety)
 - Co-host or organize 1 event
-- **Master a mentee all the way to Apprentice rank** (required, not optional — assisting as an Apprentice doesn't count toward this; the mentor must have been lead throughout, and the mentee must complete Initiate → Disciple → Apprentice under their guidance). **If a mentorship ends early** (ghosting, mismatch, mentee going inactive), progress **resets** — the mentor must guide a new mentee through the full arc from the start. No partial credit carries over between mentees.
+- **Guide a mentee all the way to Apprentice rank** (required, not optional — assisting as an Apprentice doesn't count toward this; the mentor must have been lead throughout, and the mentee must complete Initiate → Disciple → Apprentice under their guidance). **If a mentorship ends early** (ghosting, mismatch, mentee going inactive), progress **resets** — the mentor must guide a new mentee through the full arc from the start. No partial credit carries over between mentees.
 - Mentor-nomination: an existing Master+ vouches for their conduct
 
 **Unlocks:** Crew leadership track — voting rights on Crew-level decisions (local badge proposals, event calendar, Crew guidelines within global rules).
@@ -127,25 +132,33 @@ Organized into categories so people can browse by interest. Each badge = short e
 - Aftercare & Emotional Regulation
 - Mental Health & Kink (processing shame, healthy identity integration)
 - Substance Use Awareness in Play Spaces
+- Chemsex & Substance Safety Deep Dive
+- Body Positivity & Kink
 
 ### 🗣 Communication & Relationships
 - Consent Fundamentals
+- Communication & Negotiation
 - Advanced Negotiation & Boundary-Setting
 - Power Exchange Communication
 - Navigating Jealousy & Polyamory Basics
 - Conflict Resolution
+- Digital Consent & Sexting Safety
 
 ### 🌈 Identity & Inclusion
 - Gender & Sexuality 101 (ally-focused)
 - Disability & Accessibility in Kink Spaces
 - Cultural Competency & Anti-Racism in Community Spaces
 - Building Inclusive Events
+- Neurodivergence & Kink
+- Trans & Non-Binary Inclusion in Play Spaces
 
 ### 🎪 Community & Leadership
 - Event Planning & Venue Safety
 - Mentor Certification
 - Recognizing & Responding to Red Flags
 - Crew Organizing 101
+- Conflict De-escalation In-the-Moment
+- Crisis Response Basics
 
 ### 🔧 Technique & Practice *(knowledge-based, non-explicit content only)*
 - Rope Safety & Anatomy Awareness
@@ -153,6 +166,9 @@ Organized into categories so people can browse by interest. Each badge = short e
 - Sensation Play Fundamentals
 - Equipment Care & Hygiene
 - Scene Negotiation & Safewords in Practice
+- Fire Play Safety Fundamentals
+- Electrical Play Safety Fundamentals
+- Breath Play Risk Awareness (high-risk — extra mentor vetting required)
 
 ### 👑 Power Exchange & D/s *(knowledge and responsibility-based — never gated behind disclosing a specific dynamic or partner)*
 
@@ -175,8 +191,21 @@ Organized into categories so people can browse by interest. Each badge = short e
 - Building Trust in D/s Relationships
 - Exit Strategies: Ending a D/s Dynamic Safely and Respectfully
 - Protocol Design 101 (building rituals/structure that fit *your* dynamic, not a generic template)
+- 24/7 Dynamics: Sustainability & Real-World Integration
 
 **Design note:** These badges teach the *responsibilities, communication skills, and self-awareness* each role calls for — not techniques tied to any specific act. Someone can earn the Dominant track without ever having to state who they top, and the submissive track without disclosing who they serve. This keeps the badge system aligned with the core principle: knowledge and character, never performance or disclosure.
+
+### 🎉 Activity & Participation *(earned by doing, not a knowledge module)*
+- Munch Regular (attend 5 munches)
+- Event Host (organize or co-host 1 event)
+- Welcoming Committee (help onboard 3 new Wayfinders)
+- First Responder (helped de-escalate a real conflict — Master+ sign-off)
+- Crew Hopper (attended events across 3 different Crews)
+- Storyteller (published an educational post/resource for the community)
+- Quartermaster (helped run merch/badge distribution at an event)
+- Community Pillar (5 years active membership)
+- Gathering Goer (attended a national/flagship gathering)
+- Oath-Giver (administered the Oath to a new Applicant — Sage-only)
 
 ---
 
@@ -185,6 +214,11 @@ Organized into categories so people can browse by interest. Each badge = short e
 2. **Reflect** — a written prompt or short quiz (not gatekept behind a "perfect score," just genuine engagement)
 3. **Apply** *(optional, for hands-on badges)* — a mentor or event host can sign off that the member demonstrated the skill/knowledge appropriately (e.g., a rope safety badge might involve a mentor confirming the member correctly identified nerve-danger zones on a diagram, not any actual play)
 4. **Badge awarded** — appears on profile, contributes toward rank progress
+
+Badges are also tagged by **type**, so members can tell at a glance which ones gate rank progression:
+- **Progression (Rank-Required)** — mandatory for a specific rank (e.g., Consent Fundamentals for Disciple)
+- **Activity Badge** — earned by doing/attending, not a knowledge module; counts toward specialty-badge totals
+- **Elective / Knowledge** — optional module-based badge; also counts toward specialty-badge totals (Seafarer/Navigator requirements)
 
 ---
 
@@ -207,12 +241,21 @@ Not everything expires — only the badges/ranks where *outdated* knowledge is a
 - Rope Safety & Anatomy Awareness
 - Impact Play Safety & Body Mechanics
 - Consent Fundamentals *(evolving best practices)*
+- Chemsex & Substance Safety Deep Dive
+- Digital Consent & Sexting Safety
+- Conflict De-escalation In-the-Moment
+- Crisis Response Basics
+- Fire Play Safety Fundamentals
+- Electrical Play Safety Fundamentals
+- Breath Play Risk Awareness
 
 **Tier 2 — Never expires (foundational/reflective, not fact-dependent):**
 - Communication & Negotiation
 - Identity & Inclusion badges
 - Aftercare & Emotional Regulation
-- Community & Leadership badges
+- Community & Leadership badges (except the two flagged above)
+- Power Exchange & D/s badges
+- Activity & Participation badges
 
 **Rank-level renewal:**
 - Ranks themselves don't expire, **except** that any rank requiring a Tier 1 badge shows a "renewal due" flag on the profile until the underlying badge is refreshed. A lapsed safety badge doesn't demote someone, but it visibly pauses their eligibility to mentor or host events until renewed — so the system nudges via privileges, not public shame.
@@ -232,7 +275,7 @@ Not everything expires — only the badges/ranks where *outdated* knowledge is a
 
 Regional/interest-based Crews can create their own custom badges layered on top of the global set.
 
-**Membership gating:** Crews *can* require specific badges (global or local) to join — e.g., a rope-focused Crew requiring the global *Rope Safety & Anatomy Awareness* badge, or a munch-hosting Crew requiring *Event Planning & Venue Safety*. This isn't the default: Crews are open-access unless a Crew Lead (Navigator+, given the new voting-rights unlock) explicitly sets a gate, and any gate must be badge-based (demonstrated knowledge) rather than rank-based, so it stays about relevant competency rather than gatekeeping by seniority. Gated Crews should be labeled clearly in Crew search/browse ("Requires: Rope Safety badge") so people aren't surprised by a locked join button.
+**Membership gating:** Crews *can* require specific badges (global or local) to join — e.g., a rope-focused Crew requiring the global *Rope Safety & Anatomy Awareness* badge, or a munch-hosting Crew requiring *Event Planning & Venue Safety*. This isn't the default: Crews are open-access unless a Crew Lead (Navigator+, given the voting-rights unlock) explicitly sets a gate, and any gate must be badge-based (demonstrated knowledge) rather than rank-based, so it stays about relevant competency rather than gatekeeping by seniority. Gated Crews should be labeled clearly in Crew search/browse ("Requires: Rope Safety badge") so people aren't surprised by a locked join button.
 
 **Waivers:** A Crew Lead *can* waive a badge-gate for a specific applicant at their discretion (e.g., someone with real-world experience but no in-app badge yet, or a trusted transfer from another Crew). Waivers are logged and visible to that Crew's leadership (not public) so the exception is traceable rather than a quiet backdoor — keeps discretion available without it becoming an unaccountable loophole. **The system itself stays quiet about it to the applicant** (no "you were waived in" notification) so it doesn't read as a lesser form of membership — but if the applicant *chooses* to mention it themselves (e.g., "the Lead waived the badge requirement for me"), that's entirely fine and carries no penalty or standing consequence. The discretion is the Crew Lead's private call to make quietly; it's never a secret the member is obligated to keep.
 
@@ -267,7 +310,7 @@ Real influence, not unilateral authority — deliberately designed against the "
 
 ## Mentorship & Leadership Unlocks
 
-Mentorship and leadership are rank privileges, not badges — and now form a required pipeline rather than an optional add-on.
+Mentorship and leadership are rank privileges, not badges — and form a required pipeline rather than an optional add-on.
 
 - **Apprentice (Rank 3)** unlocks *assistant*-mentor eligibility — can be paired with a Seafarer to help mentor an Initiate/Disciple (co-running sessions, event buddy-up support), but doesn't mentor solo or sign off on badges. Gets people a taste of mentoring a rank early, and gives Seafarers help with the workload.
 - **Seafarer (Rank 4)** unlocks full mentorship eligibility — can be matched with Initiates/Disciples for guidance and event buddy-up, and can bring on an Apprentice as an assistant. This is where people start leading mentorship, not just assisting with it.
@@ -315,6 +358,6 @@ If equivalency review could place someone straight at Navigator or Master, it wo
 
 ---
 
-
-- Since request caps are now Crew-level discretion, should there be any *global floor/ceiling* (e.g., "no Crew can cap below 3 or above 10") so behavior doesn't vary wildly between Crews, or fully hands-off?
-- With mentorship resetting on an early end, should there be any soft support in-app for mentors who lose a mentee partway through (e.g., a "back on the market" flag that surfaces them to new mentees faster), so a reset doesn't feel like a dead end?
+## Open Questions for You
+- Since request caps are now Crew-level discretion, should there be any *global floor/ceiling* (e.g., "no Crew can cap below 3 or above 10") so behavior doesn't vary wildly between Crews, or fully hands-off? *(Answered: fully hands-off, no global floor/ceiling.)*
+- With mentorship resetting on an early end, should there be any soft support in-app for mentors who lose a mentee partway through, so a reset doesn't feel like a dead end? *(Answered: yes — see the "Back on the Market" flag under Mentorship & Leadership Unlocks.)*
