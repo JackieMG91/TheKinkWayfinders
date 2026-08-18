@@ -6,7 +6,7 @@ An app to help people learn about kink, build strong kink communities, and have 
 
 ---
 
-## Kinky Wayfinders — Ranking & Badge System
+## Ranking & Badge System
 
 A two-track advancement system: **Ranks** (linear, community-and-knowledge based) and **Specialty Badges** (non-linear, interest-based). This mirrors traditional Scouting-style advancement systems: ranks measure well-roundedness and community involvement; badges measure depth in a specific area.
 
